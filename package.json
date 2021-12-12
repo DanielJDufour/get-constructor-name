@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Get the Name of a JavaScript Function's Constructor. Returns String or Undefined.",
   "main": "get-constructor-name.js",
+  "files": [
+    "get-constructor-name.js"
+  ],
   "scripts": {
     "test": "node test.js"
   },
